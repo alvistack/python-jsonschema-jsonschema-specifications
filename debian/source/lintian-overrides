@@ -1,0 +1,5 @@
+python-jsonschema-specifications source: file-without-copyright-information
+python-jsonschema-specifications source: no-debian-changes
+python-jsonschema-specifications source: source-contains-prebuilt-windows-binary
+python-jsonschema-specifications source: source-is-missing
+python-jsonschema-specifications source: source-package-encodes-python-version
