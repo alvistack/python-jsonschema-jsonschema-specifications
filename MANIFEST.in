@@ -1,0 +1,7 @@
+include COPYING
+include README.rst
+
+recursive-exclude * __pycache__
+recursive-exclude * *.py[co]
+
+recursive-include jsonschema_specifications/schemas **/*
